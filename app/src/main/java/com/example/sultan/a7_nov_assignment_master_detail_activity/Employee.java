@@ -8,6 +8,7 @@ public class Employee implements Serializable {
     private static final long serialVersionUID = -1213949467658913456L;
     private String title;
     private String body;
+    // Git test
 
     public Employee(String title, String body) {
         this.title = title;
